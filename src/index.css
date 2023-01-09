@@ -1,0 +1,14 @@
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+  
+  body {
+    background: #E5E5E5;
+}
